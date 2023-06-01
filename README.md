@@ -1,4 +1,4 @@
-![Texte alternatif](https://github.com/Charleslmbrt/Charleslmbrt/blob/main/header_github.jpg)
+![Charles Lambert, développeur web et mobile, React/React Native/Node JS](https://github.com/Charleslmbrt/Charleslmbrt/blob/main/header_github.jpg)
 
 <br>
 
@@ -40,5 +40,14 @@ N’hésitez pas à jeter un œil à mes projets sur GitHub, et à me contacter 
 
 
 ![Texte alternatif](https://github.com/Charleslmbrt/Charleslmbrt/blob/main/outils.svg)
+
+<br>
+
+# Projets
+
+AIRBNB (en cours) • Site fullstack • Responsive • Codé avec ❤️ / REACT / NODE JS / MONGODB / TAILWIND
+
+![Site clone Airbnb](https://github.com/Charleslmbrt/Charleslmbrt/blob/main/airbnb_01.jpg)
+
 
 
