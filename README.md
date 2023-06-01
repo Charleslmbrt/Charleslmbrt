@@ -24,4 +24,18 @@ Alors n’hésitez pas à jeter un œil à mes projets sur GitHub, et à me cont
 ✉️ Pour me contacter [hello.charleslmbt@gmail.com](mailto:hello.charleslmbt@gmail.com).
 
 <p>******************************************</p>
+
+
+# Langages et frameworks
+
 <br>
+
+![Texte alternatif](https://github.com/Charleslmbrt/Charleslmbrt/blob/main/langages_frameworks.png)
+
+# Outils
+
+<br>
+
+![Texte alternatif](https://github.com/Charleslmbrt/Charleslmbrt/blob/main/outils.png)
+
+
