@@ -47,7 +47,11 @@ N’hésitez pas à jeter un œil à mes projets sur GitHub, et à me contacter 
 
 AIRBNB (en cours) • Site fullstack • Responsive • Codé avec ❤️ / REACT / NODE JS / MONGODB / TAILWIND
 
+👉 [Voir le site](https://airbnb-frontend-five.vercel.app/) • ✏️ [Voir le repo frontend](https://github.com/Charleslmbrt/airbnb_frontend) • 🔒 [Voir le repo backend](https://github.com/Charleslmbrt/airbnb_backend)
+
 ![Site clone Airbnb](https://github.com/Charleslmbrt/Charleslmbrt/blob/main/airbnb_01.jpg)
+
+
 
 
 
