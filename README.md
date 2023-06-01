@@ -1,6 +1,6 @@
 ![Texte alternatif](https://github.com/Charleslmbrt/Charleslmbrt/blob/main/header_github.jpg)
 
-<br><br>
+<br>
 
 <p>Il y a 13 ans, j'ai plongé tête la première dans le monde trépidant de la création en tant que Directeur Artistique puis Directeur de Création Adjoint en agence de communication. J’ai eu l’opportunité de travailler avec de grands comptes tant sur la partie print que digitale, tout en pilotant une équipe créative en tant que manager.
 
