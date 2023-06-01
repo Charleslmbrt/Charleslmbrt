@@ -51,6 +51,14 @@ AIRBNB (en cours) • Site fullstack • Responsive • Codé avec ❤️ / Reac
 
 ![Site clone Airbnb](https://github.com/Charleslmbrt/Charleslmbrt/blob/main/airbnb_01.jpg)
 
+<br>
+
+SPOTFINDER (en cours) • Application mobile • Projet collectif à 6 mains • Sprint de 2 semaines • Codé avec ❤️ / React-native / Expo go / Supabase (postgreSQL)
+
+✏️ 🔒 [Voir le repo](https://github.com/Charleslmbrt/spot-finder)
+
+![Application mobile Spotfinder](https://github.com/Charleslmbrt/Charleslmbrt/blob/main/spotfinder.jpg)
+
 
 
 
