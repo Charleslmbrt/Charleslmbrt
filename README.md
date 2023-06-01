@@ -10,7 +10,7 @@ Au fil des projets digitaux, ma frustation augmentait de ne pas avoir la partie 
 
 Je poursuis actuellement ma formation à *ADA Tech School*, un lieu où je peux consolider mes acquis, découvrir le travail en équipe, et appronfondir mes connaissances techniques.
 
-```ruby
+```javascript
 'La prochaine étape ? Je suis à la recherche d’une alternance qui débuterai en septembre 2023,
 en tant que développeur React/React Native/Node.js.
 Je suis convaincu que mon background, alliant créativité et compétences techniques nouvellement acquises,
