@@ -28,13 +28,11 @@ Alors n’hésitez pas à jeter un œil à mes projets sur GitHub, et à me cont
 
 # Langages et frameworks
 
-<br>
 
 ![Texte alternatif](https://github.com/Charleslmbrt/Charleslmbrt/blob/main/langages_frameworks.svg)
 
 # Outils
 
-<br>
 
 ![Texte alternatif](https://github.com/Charleslmbrt/Charleslmbrt/blob/main/outils.svg)
 
