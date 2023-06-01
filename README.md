@@ -16,3 +16,12 @@ Ce n’est que le début de mon apprentissage, et je suis impatient de voir où 
 
 Alors n’hésitez pas à jeter un œil à mes projets sur GitHub, et à me contacter si mon profil vous intérresse, ou tout simplement pour prendre un café !</p>
 
+<br>
+<p>******************************************</p>
+
+🧠 J'apprends actuellement **Typescript / Next JS / Supabase.**
+
+✉️ Pour me contacter [hello.charleslmbt@gmail.com](mailto:hello.charleslmbt@gmail.com).
+
+<p>******************************************</p>
+<br>
