@@ -45,7 +45,7 @@ N’hésitez pas à jeter un œil à mes projets sur GitHub, et à me contacter 
 
 # Projets
 
-AIRBNB (en cours) • Site fullstack • Responsive • Codé avec ❤️ / React / Vite / Node JS / MongoDB / Cloudinary / Tailwind / Antdesign
+AIRBNB (en cours) • Site fullstack • Responsive • Codé avec React / Vite / Node JS / MongoDB / Cloudinary / Tailwind / Antdesign
 
 👉 [Voir le site](https://airbnb-frontend-five.vercel.app/) • ✏️ [Voir le repo frontend](https://github.com/Charleslmbrt/airbnb_frontend) • 🔒 [Voir le repo backend](https://github.com/Charleslmbrt/airbnb_backend)
 
@@ -53,7 +53,7 @@ AIRBNB (en cours) • Site fullstack • Responsive • Codé avec ❤️ / Reac
 
 <br>
 
-SPOTFINDER (en cours) • Application mobile • Projet collectif à 6 mains • Sprint de 2 semaines • Codé avec ❤️ / React-native / Expo go / Supabase (postgreSQL)
+SPOTFINDER (en cours) • Application mobile • Projet collectif à 6 mains • Sprint de 2 semaines • Codé avec React-native / Expo go / Supabase (postgreSQL)
 
 ✏️ 🔒 [Voir le repo](https://github.com/Charleslmbrt/spot-finder)
 
@@ -61,7 +61,15 @@ SPOTFINDER (en cours) • Application mobile • Projet collectif à 6 mains •
 
 <br>
 
-VINTED • Projet Le Réacteur • Codé avec ❤️ / React / Sass / Stripe
+VINMA • Site fullstack • Projet collectif • Sprint de 7 jours • Codé avec React / Node JS / MongoDB / Cloudinary 
+
+👉 [Voir le site](https://vinma-frontend.vercel.app/) • ✏️ [Voir le repo frontend](https://github.com/Charleslmbrt/vinma_frontend) • 🔒 [Voir le repo backend](https://github.com/Charleslmbrt/vinma_backend)
+
+![Site Vinma](https://github.com/Charleslmbrt/Charleslmbrt/blob/main/vinma.jpg)
+
+<br>
+
+VINTED • Codé avec React / Sass / Stripe
 
 👉 [Voir le site](https://tubular-horse-6c60ba.netlify.app/) • ✏️ 🔒 [Voir le repo frontend](https://github.com/Charleslmbrt/vinted-project-react-frontend)
 
@@ -69,7 +77,7 @@ VINTED • Projet Le Réacteur • Codé avec ❤️ / React / Sass / Stripe
 
 <br>
 
-GOOD MORNING • Appel d'API externes • Projet collectif à 6 mains • Sprint de 7 jours • Codé avec ❤️ / Javascript / HTML / CSS
+GOOD MORNING • Appel d'API externes • Projet collectif à 6 mains • Sprint de 7 jours • Codé avec Javascript / HTML / CSS
 
 ✏️ 🔒 [Voir le repo](https://github.com/Charleslmbrt/good_morning)
 
