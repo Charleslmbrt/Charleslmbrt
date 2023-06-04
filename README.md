@@ -24,9 +24,11 @@ N’hésitez pas à jeter un œil à mes projets sur GitHub, et à me contacter 
 <br>
 <p>******************************************</p>
 
-🧠 J'apprends actuellement **Typescript / Next JS / Supabase.**
+🧠 🚀 J'apprends actuellement **Typescript / Next JS / Supabase.**
 
-✉️ Pour me contacter [hello.charleslmbt@gmail.com](mailto:hello.charleslmbt@gmail.com).
+✉️ Pour me contacter [hello.charleslmbt@gmail.com](mailto:hello.charleslmbt@gmail.com)
+
+🔗 Mon profil [Linkedin](https://www.linkedin.com/in/charles-lambert-5aa88016a/)
 
 <p>******************************************</p>
 
